@@ -1,6 +1,6 @@
 # Hi, I'm Ben Troutman
 
-Statistics & Data Science student at UCLA (B.S., expected June 2028) and Data Analyst Intern at INDUS Technology. I build predictive models on messy, real-world data, mostly in sports, markets, and engineering systems, and I care about results that hold up on data the model has never seen.
+Statistics & Data Science student at UCLA (B.S., expected June 2028) and Data Analyst Intern at INDUS Technology. I build predictive models on messy, real-world data, mostly in sports, financial markets, and engineering systems, and I care about results that hold up on data the model has never seen.
 
 At Bruin Sports Analytics, I'm Internal Vice President and Baseball Analytics Lead, managing 20 student analysts and teaching workshops on statistical modeling, Python/R, and Git.
 
